@@ -74,10 +74,10 @@ If you add a new controller, just run the generator again and a new javascript f
 Credits
 =======
 
-Special thanks to Lachie Cox and the rest of my RORO Sydney comrades who asked for this plugin.
+Special thanks to [Lachie Cox](http://blog.smartbomb.com.au) and the rest of my [RORO Sydney](http://rubyonrails.com.au/sydney-meetups) comrades who asked for this plugin.
 
 
 Feedback
 ========
 
-Comments and patches welcome at [http://the.railsi.st](http://the.railsi.st).
+Comments and patches welcome at [http://github.com/mokolabs/javascripter/](http://github.com/mokolabs/javascripter/).
