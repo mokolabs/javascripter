@@ -7,7 +7,7 @@ Javascripter is a Rails plugin that helps keep your javascript files organized.
 Status
 ------
 
-This plugin is no longer supported (mainly because I'm no longer actively using it). It should run well in Rails 2.3.X, but may not be compatible with Rails 3. If you're interested in taking over this project, please let me know. Alternately, if you have useful patches, send me a pull request and I will apply them -- but I have no personal plans for future development on this plugin.
+This plugin is no longer supported (mainly because I'm no longer actively using it). It should run well in Rails 2.3.X, but may not be compatible with Rails 3. If you're interested in taking over this project, please let me know. Alternately, if you have useful patches, send me a pull request and I will apply them -- but, otherwise, I have no personal plans for future development on this plugin.
 
 
 Install
